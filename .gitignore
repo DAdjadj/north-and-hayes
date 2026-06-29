@@ -1,0 +1,6 @@
+# OS / mount junk
+.DS_Store
+.fuse_hidden*
+
+# old design backups (not part of the live site)
+_backups/

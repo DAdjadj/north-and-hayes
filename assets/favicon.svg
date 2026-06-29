@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="34" fill="#F7F4EF"/>
+  <text x="101" y="151" text-anchor="middle" fill="#050505" font-family="Georgia, 'Times New Roman', serif" font-size="70">N</text>
+  <line x1="128" y1="75" x2="128" y2="172" stroke="#B8A46A" stroke-width="3" stroke-linecap="round"/>
+  <text x="159" y="151" text-anchor="middle" fill="#050505" font-family="Georgia, 'Times New Roman', serif" font-size="70">H</text>
+</svg>
