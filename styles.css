@@ -1226,8 +1226,9 @@ h3 {
   gap: 26px;
 }
 
-.privacy-copy h3 {
-  margin-bottom: 8px;
+.privacy-copy article {
+  display: grid;
+  gap: 14px;
 }
 
 .privacy-copy p {
